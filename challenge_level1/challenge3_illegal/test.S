@@ -11,7 +11,7 @@ RVTEST_CODE_BEGIN
 
   li TESTNUM, 2
 illegal_instruction:
-  .word 0              
+  .word mtvec_handler         
   j fail
   TEST_PASSFAIL
 
@@ -21,8 +21,11 @@ mtvec_handler:
   li t1, CAUSE_ILLEGAL_INSTRUCTION
   csrr t0, mcause
   bne t0, t1, fail
+  
+  // Handle illegal instruction exception
   csrr t0, mepc
-
+  addi t0, t0, 8      // Move to the next instruction after the invalid one
+  csrw mepc, t0        // Update the program counter
   mret
 
 RVTEST_CODE_END
