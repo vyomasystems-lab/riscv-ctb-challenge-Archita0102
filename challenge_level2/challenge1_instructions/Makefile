@@ -21,4 +21,4 @@ spike: compile
 
 clean:
 	@echo '[UpTickPro] Clean ------'
-	rm -rf work *.elf *.disass *.log *.dump *.ld *.S *.ini
+	rm -rf work *.elf *.disass *.log *.dump *.ld *.S *.ini *.m
