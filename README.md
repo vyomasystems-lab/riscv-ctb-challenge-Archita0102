@@ -135,7 +135,7 @@ This workshop by Vyoma Systems was conducted to identify the bugs, report them a
 
 ## Level-2 Refrences 
 - [Automated Assembly Program Generator](https://gitlab.com/shaktiproject/tools/aapg)
-- [Wiki AAPG]([https://gitlab.com/shaktiproject/tools/aapg/-/wikis/Wiki-AAPG-%5B2.2.2%5D](https://gitlab.com/shaktiproject/tools/aapg/-/wikis/Wiki-AAPG-%5B2.2.2%5D)https://gitlab.com/shaktiproject/tools/aapg/-/wikis/Wiki-AAPG-%5B2.2.2%5D)
+- [Wiki AAPG](https://gitlab.com/shaktiproject/tools/aapg/-/wikis/Wiki-AAPG-%5B2.2.2%5D)https://gitlab.com/shaktiproject/tools/aapg/-/wikis/Wiki-AAPG-%5B2.2.2%5D)
 
 
 ## Acknowledgement
