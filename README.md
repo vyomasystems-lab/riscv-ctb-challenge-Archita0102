@@ -5,8 +5,6 @@
 This repository is a complete documentation and a summary of the work performed by Archita Malgaonkar during the [RISC-V Capture The Bug Hackathon]
 
 
-(![image](https://github.com/vyomasystems-lab/riscv-ctb-challenge-Archita0102/assets/66164675/9ec914b6-3bcd-4886-ab5f-89843cf872a8)
-) 
 This workshop by Vyoma Systems was conducted to identify the bugs, report them and solve them and generate a bug-free instruction set architecture of RISC-V. The workshop aims more at the verification factor of RISC-V processor.
 
 
@@ -33,7 +31,7 @@ This workshop by Vyoma Systems was conducted to identify the bugs, report them a
 - 
   
 #### Defined Registers in RV32I
-![image](https://github.com/vyomasystems-lab/riscv-ctb-challenge-Archita0102/assets/66164675/7d185e9e-9a4a-422c-a5b9-470cc5810590)
+
 
 #### add instruction
 ![image](https://github.com/vyomasystems-lab/riscv-ctb-challenge-Archita0102/assets/66164675/f8c033b6-7ada-4743-98aa-047ca46b298a)
@@ -46,8 +44,7 @@ This workshop by Vyoma Systems was conducted to identify the bugs, report them a
 
 - Then we run the make command, which generates `test.disass`,`test.elf` and `test_spike.dump` files.
   
-![image](https://github.com/vyomasystems-lab/riscv-ctb-challenge-Archita0102/assets/66164675/1c2978d2-44f8-4353-941a-3636bf6c1f7b)
-![image](https://github.com/vyomasystems-lab/riscv-ctb-challenge-Archita0102/assets/66164675/06dd1eca-40a3-4c82-accf-09b38aa59690)
+![image](https://github.com/vyomasystems-lab/riscv-ctb-challenge-Archita0102/assets/66164675/7d2d4766-2bbb-466a-9522-a8e6b9f38d9c)
 
 
 ## Challenge-2 logical
@@ -66,9 +63,8 @@ This workshop by Vyoma Systems was conducted to identify the bugs, report them a
 - The program runs in an infinite loop. The program reported was the loop was not getting decremented.
 - Adding some commands to the program to decrement the loop .
 - Finally, the required files were generated after running' make'.
-
-![image](https://github.com/vyomasystems-lab/riscv-ctb-challenge-Archita0102/assets/66164675/03b08882-ee3d-4e8e-a45e-056b4bc02001)
-
+- 
+![image](https://github.com/vyomasystems-lab/riscv-ctb-challenge-Archita0102/assets/66164675/a0dc242f-f883-4487-997a-899b9d78e3e1)
 
 
 
