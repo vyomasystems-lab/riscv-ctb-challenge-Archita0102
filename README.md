@@ -3,6 +3,8 @@
 
 
 This repository is a complete documentation and a summary of the work performed by Archita Malgaonkar during the [RISC-V Capture The Bug Hackathon]
+
+
 (![image](https://github.com/vyomasystems-lab/riscv-ctb-challenge-Archita0102/assets/66164675/9ec914b6-3bcd-4886-ab5f-89843cf872a8)
 ) 
 This workshop by Vyoma Systems was conducted to identify the bugs, report them and solve them and generate a bug-free instruction set architecture of RISC-V. The workshop aims more at verification factor of RISC-V processor.
@@ -142,4 +144,5 @@ This workshop by Vyoma Systems was conducted to identify the bugs, report them a
 ## Acknowledgement
 
 - I would like to express by gratitude to Vyoma Systems, Lavanya J for guiding throughout the hackathon.
+- (https://vyomasystems.com/)
 
