@@ -83,8 +83,8 @@ This workshop by Vyoma Systems was conducted to identify the bugs, report them a
 ![image](https://github.com/vyomasystems-lab/riscv-ctb-challenge-Archita0102/assets/66164675/a11380fd-bfec-444a-a2b0-043b6400b99c)
 
 ## Level-1 Refrences 
-- [RISC-V Tests]([https://www.youtube.com/watch?v=mbyb7BgYyXg)](https://youtu.be/mbyb7BgYyXg)
-- [rircv-test GitHub]([https://github.com/riscv-software-src/riscv-tests](https://www.google.com/url?q=https://github.com/riscv-software-src/riscv-tests&sa=D&source=apps-viewer-frontend&ust=1690897725906011&usg=AOvVaw137g2g_y4HBnjO4WgFlOkB&hl=en)
+- [RISC-V Tests](https://youtu.be/mbyb7BgYyXg)
+- [rircv-test GitHub](https://www.google.com/url?q=https://github.com/riscv-software-src/riscv-tests&sa=D&source=apps-viewer-frontend&ust=1690897725906011&usg=AOvVaw137g2g_y4HBnjO4WgFlOkB&hl=en)
 - [RISC-V Instructions](https://youtu.be/bp-Y7nSJa8o)
 
 # Level-2 Instructions AAPG Random Tests
@@ -134,7 +134,7 @@ This workshop by Vyoma Systems was conducted to identify the bugs, report them a
 
 
 ## Level-2 Refrences 
-- [Automated Assembly Program Generator]([https://gitlab.com/shaktiproject/tools/aapg](https://gitlab.com/shaktiproject/tools/aapg)
+- [Automated Assembly Program Generator](https://gitlab.com/shaktiproject/tools/aapg)
 - [Wiki AAPG]([https://gitlab.com/shaktiproject/tools/aapg/-/wikis/Wiki-AAPG-%5B2.2.2%5D](https://gitlab.com/shaktiproject/tools/aapg/-/wikis/Wiki-AAPG-%5B2.2.2%5D)https://gitlab.com/shaktiproject/tools/aapg/-/wikis/Wiki-AAPG-%5B2.2.2%5D)
 
 
